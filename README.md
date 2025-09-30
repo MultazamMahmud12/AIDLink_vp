@@ -25,7 +25,7 @@ AidLink is an event-centered donation platform that connects donors with individ
 
 ### Deployment
 
-* Frontend: Vercel
+* Frontend: Firebase
 * Backend: Render
 
 ## Installation
